@@ -1,6 +1,7 @@
 # E-commerce Back End Starter Code# e-com
 This is the back-end part for the e-commerce website e-sell.
-It uses Express and sequelize to inrteract with teh mySQL database.
+It uses Express and sequelize to interact with the mySQL database.
+Uses insomnia to test the routes."
 
 
 # Usage
